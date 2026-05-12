@@ -16,6 +16,11 @@
 
 ---
 
+- ⚡ Fun fact: My debugging process looks exactly like this 👉 
+  [IT Crowd vibes](https://giphy.com/gifs/13HgwGsXF0aiGY)
+
+---
+
 ## 👨‍💻 About Me
 
 - 🎓 CS Graduate from **Menofia University** (GPA: 3.2)
@@ -51,44 +56,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 💰 Fund Collection Platform *(Fintech — ITI Graduation Project)*
-> A production-ready full-stack platform for managing merchant payments and automating commission calculations.
-
-- **Tech:** React.js · Node.js · Express · MongoDB · Tailwind CSS
-- ✅ RESTful API with secure authentication
-- ✅ Real-time transaction monitoring
-- ✅ Multi-collection MongoDB schema
-
-[![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saidelamy)
-
----
-
-### 💬 Real-Time Chat Application
-> Scalable chat app with JWT auth, Socket.IO messaging, and rate limiting via Arcjet.
-
-- **Tech:** Node.js · Express · MongoDB · Socket.IO · Arcjet · React.js · Tailwind CSS
-- ✅ JWT-based authentication
-- ✅ Real-time messaging with chat rooms & DMs
-- ✅ Rate limiting & middleware protection
-
-[![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saidelamy)
-
----
-
-### 🎬 Movie Explorer *(Next.js App)*
-> Server-side rendered movie browsing app powered by TMDB API — 500,000+ titles.
-
-- **Tech:** Next.js · React · Tailwind CSS · TMDB REST API
-- ✅ Dynamic routing & SSR metadata
-- ✅ Real-time search & trending titles
-- ✅ Optimized API data fetching
-
-[![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saidelamy)
 
 ---
 
