@@ -59,7 +59,7 @@
 - ✅ Real-time transaction monitoring
 - ✅ Multi-collection MongoDB schema
 
-[![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saidelamy)
+[![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/saidelamy](https://github.com/Saidelamy/ITI-Graduation-Project))
 
 ---
 
@@ -71,7 +71,7 @@
 - ✅ Real-time messaging with chat rooms & DMs
 - ✅ Rate limiting & middleware protection
 
-[![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saidelamy)
+[![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/saidelamy](https://github.com/Saidelamy/chat-app))
 
 ---
 
@@ -83,7 +83,7 @@
 - ✅ Real-time search & trending titles
 - ✅ Optimized API data fetching
 
-[![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saidelamy)
+[![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/saidelamy](https://github.com/Saidelamy/movie-app))
 
 ---
 
