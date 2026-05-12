@@ -84,7 +84,7 @@ Production-ready platform for managing merchant payments and automating commissi
 ✅ Real-time transaction monitoring  
 ✅ Multi-collection DB schema  
 
-[![Repo](https://img.shields.io/badge/View-Repo-181717?style=flat-square&logo=github)](https://github.com/saidelamy)
+[![Repo](https://img.shields.io/badge/View-Repo-181717?style=flat-square&logo=github)](https://github.com/Saidelamy/ITI-Graduation-Project)
 
 </td>
 <td width="33%" valign="top">
@@ -101,7 +101,7 @@ Scalable chat application with JWT auth, real-time messaging, and Arcjet rate li
 ✅ Chat rooms & Direct Messages  
 ✅ Rate limiting via Arcjet  
 
-[![Repo](https://img.shields.io/badge/View-Repo-181717?style=flat-square&logo=github)](https://github.com/saidelamy)
+[![Repo](https://img.shields.io/badge/View-Repo-181717?style=flat-square&logo=github)](https://github.com/Saidelamy/chat-app)
 
 </td>
 <td width="33%" valign="top">
