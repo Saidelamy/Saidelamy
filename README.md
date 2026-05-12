@@ -21,7 +21,7 @@
   "role"      : "Full-Stack Developer",
   "location"  : "Cairo, Egypt 🇪🇬",
   "education" : "B.Sc. Computer Science — Menofia University (GPA: 3.2)",
-  "experience":  Full-Stack Developer Intern @ **ITI** — Fintech Platform, Team Lead",
+  "experience": "Full-Stack Developer Intern @ **ITI** — Fintech Platform, Team Lead",
   "projects"  : ["Fund Collection Platform", "Real-Time Chat App", "Movie Explorer"],
   "status"    : "🟢 Actively looking for Full-Stack / Frontend / Backend roles",
   "contact"   : "saidmagdypro@gmail.com"
