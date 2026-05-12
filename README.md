@@ -1,98 +1,157 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Said+Magdy+%F0%9F%91%8B;Full-Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Open+to+Work+%F0%9F%9F%A2" alt="Typing SVG" />
-</h1>
 
-<p align="center">
-  <a href="https://linkedin.com/in/said-magdy-167874231">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:saidmagdypro@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/saidelamy">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<div align="center">
 
----
+```
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║   > SAID_MAGDY.init()                                     ║
+║   > Full-Stack Developer  //  Cairo, EG                   ║
+║   > STATUS: Open to Work 🟢                               ║
+║                                                           ║
+╚═══════════════════════════════════════════════════════════╝
+```
 
-## 👨‍💻 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=React+%7C+Node.js+%7C+MongoDB+%7C+Express;Building+scalable+web+applications;Fintech+%7C+Real-Time+%7C+Full-Stack;Available+for+hire+%F0%9F%9F%A2" alt="Typing SVG" />
 
-- 🎓 CS Graduate from **Menofia University** (GPA: 3.2)
-- 💼 Full-Stack Developer Intern @ **ITI** — built a production-ready fintech platform
-- 🚀 Shipped **3 real-world projects**: a fund collection system, a real-time chat app, and a movie explorer
-- 🔍 **Open to Work** — actively looking for Full-Stack / Frontend / Backend roles
-- 📍 Based in **Cairo, Egypt**
-- 📧 Reach me: **saidmagdypro@gmail.com**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/said-magdy-167874231)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saidmagdypro@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saidelamy)
+![Open to Work](https://img.shields.io/badge/🟢_Open_to_Work-brightgreen?style=for-the-badge)
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## `$ whoami`
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-### Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+```json
+{
+  "name"      : "Said Magdy Elamy",
+  "role"      : "Full-Stack Developer",
+  "location"  : "Cairo, Egypt 🇪🇬",
+  "education" : "B.Sc. Computer Science — Menofia University (GPA: 3.2)",
+  "experience": "ITI Intern — Fintech Platform, Team Lead",
+  "projects"  : ["Fund Collection Platform", "Real-Time Chat App", "Movie Explorer"],
+  "status"    : "🟢 Actively looking for Full-Stack / Frontend / Backend roles",
+  "contact"   : "saidmagdypro@gmail.com"
+}
+```
 
 ---
 
-## 📊 GitHub Stats
+## `$ ls ./tech-stack`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saidelamy&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saidelamy&layout=compact&theme=github_dark&hide_border=true" height="160"/>
-</p>
+### ⬛ Frontend
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saidelamy&theme=github-dark-blue&hide_border=true" />
-</p>
+### ⬛ Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
+### ⬛ Tools & DevOps
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🟢 Open to Work
+## `$ cat ./projects`
 
-I'm actively looking for **Full-Stack**, **Frontend**, or **Backend** roles.
-If you're hiring or know someone who is — let's connect!
+<table>
+<tr>
+<td width="33%" valign="top">
 
-📧 **saidmagdypro@gmail.com**
-💼 **[LinkedIn](https://linkedin.com/in/said-magdy-167874231)**
+### 💰 Fund Collection Platform
+`Fintech · ITI Graduation Project`
+
+Production-ready platform for managing merchant payments and automating commission calculations.
+
+**Stack:**
+`React` `Node.js` `Express` `MongoDB` `Tailwind`
+
+✅ RESTful API + JWT Auth  
+✅ Real-time transaction monitoring  
+✅ Multi-collection DB schema  
+
+[![Repo](https://img.shields.io/badge/View-Repo-181717?style=flat-square&logo=github)](https://github.com/saidelamy)
+
+</td>
+<td width="33%" valign="top">
+
+### 💬 Real-Time Chat App
+`Full-Stack · Socket.IO`
+
+Scalable chat application with JWT auth, real-time messaging, and Arcjet rate limiting.
+
+**Stack:**
+`Node.js` `Express` `MongoDB` `Socket.IO` `React`
+
+✅ JWT Authentication  
+✅ Chat rooms & Direct Messages  
+✅ Rate limiting via Arcjet  
+
+[![Repo](https://img.shields.io/badge/View-Repo-181717?style=flat-square&logo=github)](https://github.com/saidelamy)
+
+</td>
+<td width="33%" valign="top">
+
+### 🎬 Movie Explorer
+`Next.js · TMDB API`
+
+Server-side rendered movie browsing app with dynamic routing across 500,000+ titles.
+
+**Stack:**
+`Next.js` `React` `Tailwind` `TMDB API`
+
+✅ SSR + Dynamic routing  
+✅ Real-time search  
+✅ Optimized API fetching  
+
+[![Repo](https://img.shields.io/badge/View-Repo-181717?style=flat-square&logo=github)](https://github.com/saidelamy)
+
+</td>
+</tr>
+</table>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saidelamy&color=58A6FF&style=for-the-badge" alt="Profile views" />
-</p>
+## `$ git log --stats`
 
+<div align="center">
 
-<!--
-**Saidelamy/Saidelamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github-readme-stats.vercel.app/api?username=saidelamy&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=00FF41&icon_color=00FF41" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saidelamy&layout=compact&theme=github_dark&hide_border=true&title_color=00FF41" height="165"/>
 
-Here are some ideas to get you started:
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saidelamy&theme=github-dark-blue&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## `$ ping hire-me`
+
+```
+> Looking for Full-Stack / Frontend / Backend roles
+> Available for: Full-time · Remote · On-site (Cairo)
+> Response time: < 24 hours
+
+📧  saidmagdypro@gmail.com
+💼  linkedin.com/in/said-magdy-167874231
+```
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=saidelamy&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
